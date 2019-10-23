@@ -1,0 +1,23 @@
+.list-comments {
+    margin-left: 25px !important;
+    padding: 25px !important;
+}
+
+.comment {
+    padding: 25px;
+    margin-bottom: 25px;
+    border: 1px solid black;
+}
+
+.text-comment {
+    margin-top: 25px;
+}
+
+.add-comment {
+    margin-left: 25px;
+    padding: 25px;
+}
+
+.add-comment div {
+    margin-bottom: 15px;
+}
